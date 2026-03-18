@@ -27,3 +27,40 @@ ai-mood-analyzer/
 ├── storage.py       # Data Persistence Layer (CSV CRUD operations)
 ├── requirements.txt # Project dependencies
 └── data.csv         # Local database for user entries
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/mshreyat/AI-Mood-Analyzer
+cd mood-analyzer
+pip install -r requirements.txt
+````
+
+## ▶️ Run the App
+
+```bash
+streamlit run app.py
+```
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+## 🔮 Future Improvements
+
+* Use deep learning (BERT)
+* Add real screen time tracking API
+* Deploy online
+
+## 👩‍💻 Author
+
+Shreya Malwade
+
+
+
+
+
+
+
